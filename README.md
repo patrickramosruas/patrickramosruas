@@ -1,6 +1,6 @@
 <h1>Hi, I'm Patrick  👋</h1>
 
-<h3>I am a computer engineer studying software development in Java.</h3>
+<h3>I'm a Computer Engineer, studying to become a Java software developer.</h3>
 
 - 🌱 I’m currently learning **Java, Spring, Microservices**
 
